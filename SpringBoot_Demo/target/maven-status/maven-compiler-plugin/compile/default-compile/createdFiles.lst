@@ -1,0 +1,11 @@
+com\yange\mail\EmailServiceImpl.class
+com\yange\controller\SpringController.class
+com\yange\service\MailServiceImpl.class
+com\yange\App.class
+com\yange\user\BaseBean.class
+com\yange\user\Mail.class
+com\yange\mail\EmailService.class
+com\yange\dao\MailDao.class
+com\yange\dao\CommonDao.class
+com\yange\mail\EmailConfig.class
+com\yange\service\MailService.class
